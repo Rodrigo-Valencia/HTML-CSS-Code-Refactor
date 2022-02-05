@@ -12,7 +12,7 @@ This project is a code refactor for the Horiseon website homepage. Horiseon is a
 * Consise and descriptive title. 
 
 ### Link
-[link to the deployed website]
+[link to the deployed website](https://rodvalencia2319.github.io/HTML-CSS-Code-Refactor/)
 
 ### Reference
 ![screenshot of index.html]
