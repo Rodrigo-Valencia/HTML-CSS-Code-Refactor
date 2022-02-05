@@ -10,3 +10,9 @@ This project is a code refactor for the Horiseon website homepage. Horiseon is a
 * Accessible alt attributes 
 * Sequential order
 * Consise and descriptive title. 
+
+### Link
+[link to the deployed website]
+
+### Reference
+![screenshot of index.html]
