@@ -15,4 +15,4 @@ This project is a code refactor for the Horiseon website homepage. Horiseon is a
 [Link to the deployed website](https://rodvalencia2319.github.io/HTML-CSS-Code-Refactor/)
 
 ### Reference
-![Screenshot of index.html](https://rodvalencia2319.githum.io/HTML-CSS-Code-Refactor/assets/css/images/screenshot.jpg)
+![Screenshot of index.html](https://github.com/rodvalencia2319/HTML-CSS-Code-Refactor/assets/css/images/screenshot.jpg)
